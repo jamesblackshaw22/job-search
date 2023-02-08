@@ -1,6 +1,6 @@
 # job-search
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a project to aid me in learning Vue.js framework and other tools such as tailwind and TypeScript.
 
 ## Recommended IDE Setup
 
