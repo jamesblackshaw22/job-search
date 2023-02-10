@@ -1,6 +1,6 @@
 # job-search
 
-This is a project to aid me in learning Vue.js framework and other tools such as tailwind and TypeScript.
+This is a project to aid me in learning Vue.js framework and other tools such as tailwind and TypeScript. Lot's of the code will be inefficient or look odd but this is a learning project so at any point I've used it to test features and concepts.
 
 ## Recommended IDE Setup
 
